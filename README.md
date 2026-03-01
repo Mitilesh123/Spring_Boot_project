@@ -12,7 +12,6 @@ A Spring Boot application for producing and sending payloads to Apache Kafka top
 - [API Endpoints](#api-endpoints)
 - [Configuration](#configuration)
 - [Technologies Used](#technologies-used)
-- [License](#license)
 
 ## Features
 
@@ -188,7 +187,3 @@ spring:
 - **Lombok**: To reduce boilerplate code
 - **Maven**: Build and dependency management
 - **SLF4J**: Logging framework
-
-## License
-
-This project is proprietary and confidential.
